@@ -1,3 +1,24 @@
+cookies
+# recipes_2Akennedy
+ tasks 
+1
+Misture a manteiga, açúcar mascavo, açúcar, essência de baunilha (e chocolate em pó, se for fazer cookies com base de chocolate).
+
+2
+Adicione o ovo batido aos poucos e misture bem.
+
+3
+Acrescente a farinha aos poucos e misture bem (pode ser na mão ou na batedeira planetária)
+
+4
+Por último, adicione o fermento e misture só para incorporá-lo à massa.
+
+5
+Depois da massa bem misturada, adicione o chocolate picado.
+
+6
+Forme bolinhas pequenas e asse em forno preaquecido, sobre papel manteiga, por aproximadamente 15 a 20 minutos (250° C).
+
 
 
 Ingredientes (10 porções)
@@ -21,9 +42,8 @@ Transfira as tiras douradas para uma tigela. Doure o restante, sempre regando a 
 Diminua o fogo da panela para baixo e regue com mais 1 colher (sopa) de azeite. Adicione a cebola e refogue até murchar por cerca de 3 minutos, raspando bem o fundo da panela – os queimadinhos da carne vão dar sabor ao preparo. Junte o alho e mexa por apenas 1 minuto para perfumar.
 Acrescente o extrato de tomate, o ketchup e mexa bem. Volte a carne dourada à panela, adicione o molho inglês e o conhaque. Junte os cogumelos e misture delicadamente.
 Regue com o creme de leite, tempere com sal e pimenta-do-reino a gosto. Misture bem e deixe cozinhar em fogo médio. Depois que começar a ferver, deixe cozinhar por mais 15 minutos, mexendo de vez em quando, até o molho engrossar. Desligue o fogo e sirva a seguir.
-=======
 
-=======
+
 Ingredientes para o omelete:
 2 ovos
 
@@ -71,7 +91,7 @@ Disponha o alface em um prato e adicione os tomates cereja, o pepino e a cenoura
 Tempere com azeite, algumas gotas de limão e sal a gosto.
 
 Sirva o omelete acompanhado da salada, e bom apetite! 🍳🥗 Se quiser, posso sugerir outros acompanhamentos ou variações. O que acha?
-=======
+
 
 
 Como fritar um ovo:
@@ -83,11 +103,11 @@ Sal.
 
 Modo de preparo:
 Coloque manteiga em uma frigideira aquecida, quebre o ovo dentro da frigideira e tempere com sal.
-=======
+
 
 
 receita da galinha
-=======
+
  Cobertura
 1
 Em uma panela, adicione o açúcar e misture até derreter.
@@ -119,5 +139,6 @@ Leve para assar em forno médio 180º C, preaquecido por aproximadamente 30 minu
 
 
 
-=======
 
+
+ main
