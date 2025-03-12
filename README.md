@@ -1,7 +1,7 @@
 # recipes_2Akennedy
  tasks 
 
-como fritar um ovo
+Como fritar um ovo:
 
 Ingredientes: 
 Ovo;
