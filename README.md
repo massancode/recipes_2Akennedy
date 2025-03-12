@@ -1,5 +1,8 @@
 # recipes_2Akennedy
  tasks 
+pãocomovo
+corte o pão no meio dps quebre um ovo na palena frite ele e dps bote no pao dps de pronto .
+=======
 
 
 receita da galinha
@@ -32,4 +35,5 @@ Despeje o caramelo e as bananas cortadas no comprimento.
 
 9
 Leve para assar em forno médio 180º C, preaquecido por aproximadamente 30 minutos.
+
 
