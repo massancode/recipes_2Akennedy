@@ -1,5 +1,6 @@
 # recipes_2Akennedy
  tasks 
+
 Ingredientes (10 porções)
 Ingredientes:
 1,5 kg de miolo de alcatra em bifes
@@ -21,3 +22,38 @@ Transfira as tiras douradas para uma tigela. Doure o restante, sempre regando a 
 Diminua o fogo da panela para baixo e regue com mais 1 colher (sopa) de azeite. Adicione a cebola e refogue até murchar por cerca de 3 minutos, raspando bem o fundo da panela – os queimadinhos da carne vão dar sabor ao preparo. Junte o alho e mexa por apenas 1 minuto para perfumar.
 Acrescente o extrato de tomate, o ketchup e mexa bem. Volte a carne dourada à panela, adicione o molho inglês e o conhaque. Junte os cogumelos e misture delicadamente.
 Regue com o creme de leite, tempere com sal e pimenta-do-reino a gosto. Misture bem e deixe cozinhar em fogo médio. Depois que começar a ferver, deixe cozinhar por mais 15 minutos, mexendo de vez em quando, até o molho engrossar. Desligue o fogo e sirva a seguir.
+=======
+
+
+receita da galinha
+=======
+ Cobertura
+1
+Em uma panela, adicione o açúcar e misture até derreter.
+
+2
+Despeje a água quente e mexa até dissolver o açúcar.
+
+3
+Deixe engrossar até chegar ao ponto de calda e reserve.
+
+4
+Massa
+Bata no liquidificador os ovos, o açúcar, o óleo e o leite.
+
+5
+Acrescente a farinha de trigo aos poucos e continue batendo até obter uma massa lisa e homogênea.
+
+6
+Adicione por último o fermento e bata na velocidade mínima do liquidificador.
+
+7
+Unte uma forma média com margarina e farinha.
+
+8
+Despeje o caramelo e as bananas cortadas no comprimento.
+
+9
+Leve para assar em forno médio 180º C, preaquecido por aproximadamente 30 minutos.
+
+
