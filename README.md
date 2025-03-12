@@ -1,4 +1,9 @@
 
+# recipes_2Akennedy
+ tasks 
+ Tonkatsu
+=======
+
 Ingredientes para o omelete:
 2 ovos
 
@@ -90,3 +95,4 @@ Despeje o caramelo e as bananas cortadas no comprimento.
 
 9
 Leve para assar em forno médio 180º C, preaquecido por aproximadamente 30 minutos.
+
