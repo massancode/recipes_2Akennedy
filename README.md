@@ -1,30 +1,9 @@
 # recipes_2Akennedy
- tasks 
- Cobertura
-1
-Em uma panela, adicione o açúcar e misture até derreter.
+Receita de "pankakes"
 
-2
-Despeje a água quente e mexa até dissolver o açúcar.
+Em uma vasilhga misture:
+2 ovos, 2 colheres de sopa de manteiga derretida, 1 xicara de leite, 1 e 1/4 de xicara de farinha de trigo (peneirada de preferencia), 1 colher de açucar 1 pitada de sal
 
-3
-Deixe engrossar até chegar ao ponto de calda e reserve.
+Misture bem, em seguida leve uma frigideira a fogo alto por cerca de 30 segundos, nesse meio tempo separe uma concha para ser usada de medida e um espatula para virar as pankakes
 
-4
-Massa
-Bata no liquidificador os ovos, o açúcar, o óleo e o leite.
-
-5
-Acrescente a farinha de trigo aos poucos e continue batendo até obter uma massa lisa e homogênea.
-
-6
-Adicione por último o fermento e bata na velocidade mínima do liquidificador.
-
-7
-Unte uma forma média com margarina e farinha.
-
-8
-Despeje o caramelo e as bananas cortadas no comprimento.
-
-9
-Leve para assar em forno médio 180º C, preaquecido por aproximadamente 30 minutos.
+Meça ma concha de massa de pankakes e despeje sobre a frigideira quente, deixe a massa assar até começar a solidificar e vire a pankakes, espere o mesmo intervalo de tempo e retire a pankakes da frigideira, repita!
