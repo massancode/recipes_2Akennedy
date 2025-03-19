@@ -55,9 +55,7 @@ Atum - alface - maionese.
 Salmão cru - wasabi (condimento japonês).
 
 17
-Salmão - manga - pepino.
-
-Avalie
+<<<<<<< Updated upstream
 =======
 
 
@@ -184,3 +182,5 @@ Leve para assar em forno médio 180º C, preaquecido por aproximadamente 30 minu
 
 main
 
+=======
+>>>>>>> Stashed changes
